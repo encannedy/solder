@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
-    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
   }
   
   .container{
@@ -16,7 +16,7 @@ body {
     color: #000000;
     border-left: 1px solid black;
     padding: 10px;
-    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+
     
   }
   
@@ -54,17 +54,17 @@ body {
   
   .past {
     background-color: #d3d3d3;
-    color: white;
+    color: black;
   }
   
   .present {
     background-color: #ff6961;
-    color: white;
+    color: black;
   }
   
   .future {
     background-color: #77dd77;
-    color: white;
+    color: black;
   }
   
   .saveBtn {

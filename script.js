@@ -1,7 +1,7 @@
 // everything is inside the document.ready function so that nothing runs until the program is loaded
 $(document).ready(function(){
     //Allows the use of moment.JS for input of month, day, year 
-    var now = moment().format('MMMM Do YYYY');
+    var now = moment().format('LL');
     console.log(now);
     $("#currentDay").text(now);
 // setting new variables to ID's identified in html
