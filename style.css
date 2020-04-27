@@ -2,6 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
   }
   
   .container{
@@ -15,7 +16,8 @@ body {
     color: #000000;
     border-left: 1px solid black;
     padding: 10px;
-    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    
   }
   
   .jumbotron {
@@ -25,6 +27,7 @@ body {
     border-radius: 0;
     border-bottom: 10px solid black;
     background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+    font-family: 'Open Sans Condensed', sans-serif;
   }
   
   .description{
@@ -34,6 +37,7 @@ body {
   .time-block{
     text-align: center;
     border-radius: 15px;
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
   }
   
   .row {
