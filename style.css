@@ -27,7 +27,8 @@ body {
     border-radius: 0;
     border-bottom: 10px solid black;
     background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Cinzel', serif;
+    font-weight: 400;
   }
   
   .description{
